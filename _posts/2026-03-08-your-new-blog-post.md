@@ -13,8 +13,5 @@ autism\
 free.png<br/>
 ![alt text](/images/free.png)
 
-tennas giant spritesheet
-![alt text](/images/tennathecreature.png)
-
 gif attempt
 ![alt text](/images/krisfallsoveranddiesonthefloor.gif)
