@@ -1,3 +1,3 @@
-## title
+## first ACTUAL post; device image friend (WIP)
 
-intro
+i need to actually go re-collect screenshots
