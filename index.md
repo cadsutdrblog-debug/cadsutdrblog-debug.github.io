@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hi there, if you're reading this right now that means basiclly everything is still under construction, and probobly doesnt look the best.
 
-Maybe say a some things about yourself.
+This will eventually be a searchable knowlage base for just about all information regarding undertale and deltarune, down to the smallest most random details, this is somthing i've wanted to make for a long time, there's lots of people saying lots of things about how to trigger certien events, the chanches of things happening and which character said what when. the goal of this website will be to easily put those kind of debates to rest by providing screenshots of those momments in-game, and the code that handles those momments with explanations that ideally will be understandable even to people with no coding experince while also having enough detail that people who want to can go looking through the code of the game to see things for themselves!
 
-Or maybe what you plan to blog about.
+I am just one person though, so if theres information missing always feel free to suggest me specific things/momments to look into! im always happy to explore and try to explain the code of the game(s) best i can!
