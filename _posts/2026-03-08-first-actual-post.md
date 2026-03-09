@@ -36,3 +36,9 @@ as you can see, they're similar enough that at first glance one might absolutly 
 and then below is the sprite used when it laughs and tries to jumpscare us\
 ![little bugger](/images/post1/spr_nondescript_room____laugh_gif.gif)
 
+[crowd_laugh.wav](https://github.com/user-attachments/files/25853972/crowd_laugh.wav)
+
+
+
+
+
