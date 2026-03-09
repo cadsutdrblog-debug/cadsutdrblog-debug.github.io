@@ -36,4 +36,5 @@ as you can see, they're similar enough that at first glance one might absolutly 
 and then below is the sprite used when it laughs and tries to jumpscare us\
 ![little bugger](/images/post1/spr_nondescript_room____laugh_gif.gif)
 
+<audio src="/audio/crowd_laugh.wav" controls preload></audio>
 
