@@ -27,6 +27,9 @@ but yeah, second time we see FRIEND, its in a dark underground area again with l
 ok, so in this chunk i'm going to showcase all the sprites of FRIEND that show up in chapter 3 each with a breakdown of when they're used and any other special details.
 the first sprite i want to focus on is [name of the sprite thats 100% endogony from undertale but without FRIEND's face]. this sprite appears at the very begining of the chapter when ralsei is trying to explain how dark worlds work under true darkness. the first thing to note about this sprite is that its pretty similar to endogony from undertale, but honestly not as similar as people make it seem! here's the two side by side!\
 ![endogeny sprite](/images/post1/spr_endogeny.png) 
-![FRIEND's first appearance in chapter 3](/images/post1/spr_nondescript_room___0.png)
+![FRIEND's first appearance in chapter 3](/images/post1/spr_nondescript_room____0.png)
+\
+as you can see, they're similar enough that at first glance one might absolutly think it's endogeny from undertale, but these sprites have some key diffrences,\
+1: endogeny's sprite has 5 silloettes while FRIEND onlyl has 4. the color pallet is also inverted, endogeny's sprite is mainly white with black backround/outline while FRIEND is mainly black with white outline.\
 
 ![alt text](/images/post1/spr___appear_4.png)
