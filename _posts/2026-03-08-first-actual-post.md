@@ -32,4 +32,7 @@ the first sprite i want to focus on is [name of the sprite thats 100% endogony f
 as you can see, they're similar enough that at first glance one might absolutly think it's endogeny from undertale, but these sprites have a major diffrence, endogeny's sprite has 5 silloettes while FRIEND only has 4. the color pallet is also inverted, endogeny's sprite is mainly white with black backround/outline while FRIEND is mainly black with white outline, also the image above is just the first frame of animation for this instance of FRIEND, below is a gif i put together of both the animation frames for the sprite alongside the sprite of FRIEND's face that slowly fades otop of it.\
 ![a gif with two frames, both being the aformentioned faceless FRIEND sprite, it looks like its wiggling just a bit](/images/post1/spr_nondescript_room____gif.gif)
 ![FRIEND's face wiggling](/images/post1/spr_nondescript_room____face_gif.gif)
+\
+and then below is the sprite used when it laughs and tries to jumpscare us\
+![little bugger](/images/post1/spr_nondescript_room____laugh_gif.gif)
 
