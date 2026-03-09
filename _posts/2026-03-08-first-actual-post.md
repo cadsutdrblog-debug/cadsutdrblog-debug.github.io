@@ -36,12 +36,6 @@ as you can see, they're similar enough that at first glance one might absolutly 
 and then below is the sprite used when it laughs and tries to jumpscare us\
 ![little bugger](/images/post1/spr_nondescript_room____laugh_gif.gif)
 \
-i dont think theres any associated audio with FRIEND besides this one, and if you listen to it you'll hear that its a bit longer than what we hear in game in that momment and thats because it works based off a specific timer!
+i dont think theres any associated audio with FRIEND besides this one, and if you listen to it you'll hear that its a bit longer than what we hear in game in that momment and thats because it works based off a specific timer that makes it stop playing once FRIEND is fully zommed into our screen!
 <audio src="/audio/crowd_laugh.wav" controls preload></audio>
 \
-now, as of writing i dont know the gamemaker language well enough to say anything for certian, especally regarding how cutscenes work so feel free to skip my attempt at explaining how the timer works using [this link](#ramble1skip).\
-so first things first is to establish the basics of whats going on in the screenshot below.
-![a screenshot of deltarune chapter 3's code that handles the part of the cutscene where friend shows up and laughs at us](/images/post1/line160-line198.png)
-\
-
-but now onto the next appearance/allusion of FRIEND.<a name="ramble1skip"></a>
