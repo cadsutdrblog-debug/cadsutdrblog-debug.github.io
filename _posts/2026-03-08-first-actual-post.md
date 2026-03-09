@@ -21,5 +21,10 @@ this section i wanna talk about how oddly prominent cat and bird imegry/allusion
 in this section i wanna make it so so clear that the mantle game is some kind of prototype of undertale yet also dragon blazers and how dragon blazers is intertwined with the prophacy, and that the shadow mantle doesnt ever acknowlage FRIEND popping up to help kris, and that the circumstances in which we see friend in chapter 3 are very similar to how we see them in chapter 2, we're somewhere we arent supposed to be, kris doesnt want us here, susie and ralsei are told to stay away by kris, we were lured here with promise of something new only for it to end in another fight in a deeper darker area, but this time we learn more, we SEE more, we do more, wether kris likes it or not. 
 but yeah, second time we see FRIEND, its in a dark underground area again with loose themes of forests and ROOTS(i need to actually check if ROOTS plays once we go underground or prior.)
 
-### FRIEND sprites
+<details>
+<summary> FRIEND sprites that appear in Chapter 3 </summary>
+
+  ### Chapter 3 FRIEND sprites
 ![alt text](/images/post1/spr___appear_4.png)
+  
+</details>
