@@ -34,4 +34,5 @@ if (room == room_dw_city_intro)
                     msgsetloc(0, "\\E2* K-Kris...^1? Are you sure this isn't the wrong way?/%", "obj_weirdroute_manipulator_slash_Step_0_gml_36_0");
                     d_make();
 ```
-in a nutshell, if we enter room_dw_city_intro (screenshotted below) then the game checks if we made noelle freeze the tutoriel virovirokun using ```global.flag[915]```. it also checks if ```global.flag[916] == 0``` and if ```global.flag[452] == 0```. ```global.flag[916]``` is the flag for aborting/failing the weird route. when it's value is ```== 0``` then it means we have at some point aborted/failed the weird route. as for ```global.flag[452] == 0``` i have no idea lemme go check
+in a nutshell, if we enter room_dw_city_intro (screenshotted below) then the game checks if we made noelle freeze the tutoriel virovirokun using ```global.flag[915]```. it also checks if ```global.flag[916] == 0``` and if ```global.flag[452] == 0```.\
+```global.flag[916]``` is the flag for aborting/failing the weird route. when it's value is ```== 0``` then it means we have at some point aborted/failed the weird route. as for ```global.flag[452] == 0``` i have no idea lemme go check
