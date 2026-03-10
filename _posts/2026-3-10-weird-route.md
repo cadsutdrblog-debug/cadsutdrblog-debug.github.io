@@ -10,4 +10,8 @@ looking at the line above it we see ```if (global.flag[915] == 0 && global.flag[
 if we havent done anything weird route related yet and we just made noelle freeze the tutoriel virovirokun then play the weird route jingle!
 after playing the jingle the next line of code sets ```global.flag[915] = 1```. that offically starts us on phase 1 of the weird route.\
 \
-for preface, anything that looks like a screenshot of a room in this post is probobly taken straight out of undertalemodtool, with some collision stuff hidden of course, so things might look a tad odd. if you this -> ![duck](images/post2/obj_bg_givedepth.png) sprite randomly thats the object that handles depth perception, if you see this -> ![music note](/images/post2/obj_musicer_room.png) sprite randomly thats the object that handles the game's music, if you see this -> ![kris](image/post2/obj_mainchara.png) kris sprite randomly and its not explicited stated to be a mockup i made then its the spawner object for the party, and lastly if you randomly see berdly's frozen body -> ![frozen chicken](/images/post2/obj_weirdroute_manipulator.png) thats the object that handles the weird route.
+for preface, anything that looks like a screenshot of a room in this post is probobly taken straight out of undertalemodtool, with some collision stuff hidden of course, so things might look a tad odd. \
+if you this -> ![duck](images/post2/obj_bg_givedepth.png) sprite randomly thats the object that handles depth perception,\
+if you see this -> ![music note](/images/post2/obj_musicer_room.png) sprite randomly thats the object that handles the game's music,\
+if you see this -> ![kris](image/post2/obj_mainchara.png) kris sprite randomly and its not explicited stated to be a mockup i made then its the spawner object for the party,\
+and lastly if you randomly see berdly's frozen body -> ![frozen chicken](/images/post2/obj_weirdroute_manipulator.png) thats the object that handles the weird route.
